@@ -1,0 +1,17 @@
+# 📝 Görev Yöneticisi (To-Do App) Projem
+
+Merhaba! Bu proje, Web Geliştirme eğitimim çerçevesinde öğrendiklerimi pratiğe dökmek için saf (Vanilla) JavaScript kullanarak geliştirdiğim bir Görev Yöneticisi uygulamasıdır.
+
+Projeyi geliştirirken herhangi bir framework (React, Vue vb.) kullanmadım. Amacım HTML, CSS ve JavaScript temellerimi (DOM manipülasyonu, döngüler, diziler) tam anlamıyla oturtmaktı. Kodların okunabilir olması için de projeyi `Components` ve `Pages` olarak modüler klasörlere böldüm.
+
+## 🚀 Projedeki Özellikler
+
+- **Tam Kapsamlı CRUD:** JavaScript'in temel `createElement` ve `appendChild` metotlarını kullanarak görev ekleme, listeleme, güncelleme ve silme işlemlerini kodladım.
+- **Kalıcı Hafıza:** Sayfa yenilendiğinde verilerim kaybolmasın diye tarayıcının `LocalStorage` özelliğini entegre ettim.
+- **Görev Filtreleme:** Görevleri "Tümü, Devam Edenler, Tamamlananlar" olarak anlık süzebilen bir yapı kurdum.
+- **Modern Tasarım:** Arayüzde Bootstrap 5 kullandım. Sıkıcı tarayıcı uyarıları (alert) yerine SweetAlert2 kütüphanesiyle şık bildirimler ekledim.
+
+## 🛠️ Nasıl Çalıştırılır?
+Uygulama herhangi bir sunucu (Backend), REST API veya terminal kurulumu (npm, node vb.) gerektirmez. 
+
+Projeyi incelemek için klasörü indirip doğrudan **`index.html`** dosyasına çift tıklayarak tarayıcınızda açmanız yeterlidir.
