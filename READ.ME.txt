@@ -15,3 +15,4 @@ Projeyi geliştirirken herhangi bir framework (React, Vue vb.) kullanmadım. Ama
 Uygulama herhangi bir sunucu (Backend), REST API veya terminal kurulumu (npm, node vb.) gerektirmez. 
 
 Projeyi incelemek için klasörü indirip doğrudan **`index.html`** dosyasına çift tıklayarak tarayıcınızda açmanız yeterlidir.
+ **Canlı Demo:** [Projeyi Çalışır Halde Görmek İçin Tıklayın](https://delightful-sprinkles-b9379f.netlify.app)
